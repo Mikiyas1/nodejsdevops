@@ -5,4 +5,7 @@ describe("test", () => {
   it("should return a string", () => {
     expect("Hello travis ci").to.equal("Hello travis ci");
   });
+  it("says hi", () => {
+    expect("say").to.equal("say");
+  });
 });
