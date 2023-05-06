@@ -1,0 +1,26 @@
+{
+  "name": "nodejsdevops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikiyas1/nodejsdevops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikiyas1/nodejsdevops/issues"
+  },
+  "homepage": "https://github.com/Mikiyas1/nodejsdevops#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
